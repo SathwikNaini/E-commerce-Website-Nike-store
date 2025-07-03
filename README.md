@@ -2,6 +2,8 @@
 
 A sleek, responsive e-commerce frontend built using **HTML**, **CSS**, and **JavaScript**, featuring a product catalog, image sliders, and a payment form. This project has been containerized with **Docker** using **Nginx** to serve static files efficiently.
 
+Project URL:https://shoes-e-commerce1.netlify.app/
+
 ---
 
 ## 🚀 Features
